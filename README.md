@@ -5,7 +5,7 @@ O projeto consiste em um robô que é acionado por um menu via linha de comando,
 As opções disponibilizadas no menu são:
 1. **Iniciar Monitoramento**: Inicia o monitoramento de fato dos sites presentes no `sites.txt`
 2. **Exibir Logs**: Exibe os logs dos monitoramentos executados, estes, que estão armazenados no arquivo `logs.txt`
-3. **Sair **:  Sai do sistema 
+3. **Sair**:  Sai do sistema 
 
 ## Instalação e Execução
 Para rodar o projeto, basta ter a linguagem GO instalada em sua máquina. O modo de fazer a instalação irá variar de acordo com cada sistema operacional,  e você pode checar como fazer no seu sistema através [deste link](https://golang.org/doc/install). 
