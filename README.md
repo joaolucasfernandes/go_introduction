@@ -14,7 +14,7 @@ Com a linguagem instalada, basta entrar na pasta raiz do projeto e executar o co
 
 ## Conceitos aprendidos:
 - História da linguagem
-- Estrutura da linguagem em termos de execução
+- Estrutura da linguagem e dos projetos
 - Inferência de tipos de variáveis
 - Criação de funções com e sem retorno
 - Criação, atribuição e conversão de variáveis de vários tipos (int, string, float, arrays, slices, booleans)
