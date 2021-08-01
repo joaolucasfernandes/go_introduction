@@ -68,7 +68,7 @@ func processaComando(comando int) {
 
 func exibeIntro() {
 	versao := 1.1
-	fmt.Println("UpDummy Robot")
+	fmt.Println("Bem-vindx ao UpDummy Robot")
 	fmt.Println("Versão do Software - ", versao)
 }
 
